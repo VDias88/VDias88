@@ -1,5 +1,5 @@
 - 👋 Olá sou Vinicius Dias
-- 👀 No momento estudo react-native e desenvolvimento web
+- 👀 No momento estudo react-native e desenvolvimento web e tenho objetivo de ser full-stack
 - 🌱 Nas horas vagas eu aprendo modelagem 3d no blender e desenvolvimento de jogos na unity engine
 - 📫 Você pode me encontrar no [Linkedin](https://www.linkedin.com/in/vinicius-monteiro-dias-a7484a1b9/)
 
