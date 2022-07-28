@@ -1,6 +1,6 @@
 - 👋 Olá sou Vinicius Dias
 - 👀 No momento trabalho com react-native e desenvolvimento web e tenho objetivo de ser full-stack
-- 🌱 Nas horas vagas eu aprendo modelagem 3d no blender e programação c#
+- 🌱 Nas horas vagas eu aprendo modelagem 3d no blender e programação nativa usando Kotlin
 - 📫 Você pode me encontrar no [Linkedin](https://www.linkedin.com/in/vinicius-monteiro-dias-a7484a1b9/)
 
 <!---
